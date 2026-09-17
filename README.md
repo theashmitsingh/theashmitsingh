@@ -8,17 +8,20 @@ MCA Student • Software Developer • Full-Stack Developer
   <a href="https://github.com/theashmitsingh">
     <img src="https://komarev.com/ghpvc/?username=theashmitsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/theashmitsingh">
+  <a href="https://github.com/theashmitsingh?tab=followers">
     <img src="https://img.shields.io/github/followers/theashmitsingh?label=Followers&style=flat" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/theashmitsingh?tab=repositories">
-    <img src="https://img.shields.io/github/stars/theashmitsingh?label=Stars&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/badge/Repositories-22-blue?style=flat" alt="Repositories" />
   </a>
-  <a href="https://github.com/theashmitsingh">
-    <img src="https://img.shields.io/github/last-commit/theashmitsingh/theashmitsingh" alt="Last Commit" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/theashmitsingh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:theashmitsingh11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -26,35 +29,42 @@ MCA Student • Software Developer • Full-Stack Developer
 
 ## 👨‍💻 About Me
 
-I'm an MCA student and software developer who enjoys building practical applications and learning how things work under the hood.
+I'm an MCA student and software developer who enjoys building practical applications and continuously improving my problem-solving and development skills.
 
-* 🔭 Currently working on **DSA and full-stack development**
-* 🌱 Currently learning **ASP.NET Core MVC, DSA and backend development**
-* 💻 Interested in **Software Engineering, Full-Stack Development and AI-powered applications**
-* 🛠️ I enjoy turning ideas into working projects
-* 📚 Always learning something new
-* 📫 Reach me at **[theashmitsingh11@gmail.com](mailto:theashmitsingh11@gmail.com)**
+- 🔭 Currently working on **DSA and Full-Stack Development**
+- 🌱 Currently learning **ASP.NET Core MVC and DSA**
+- 💻 Interested in **Software Engineering and Full-Stack Development**
+- 🤖 Interested in building **AI-powered applications**
+- 🛠️ I enjoy turning ideas into working projects
+- 📚 Currently improving my **problem-solving and backend development skills**
+- 📫 Email: **theashmitsingh11@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,kotlin" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,kotlin" alt="Programming Languages" />
 </p>
 
-### Web Development
+### 🌐 Web & Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,dotnet,bootstrap,tailwind" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,dotnet,bootstrap,tailwind,vite" alt="Web Technologies" />
 </p>
 
-### Databases & Tools
+### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,postman,vscode" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Tools and Platforms" />
 </p>
 
 ---
@@ -63,149 +73,155 @@ I'm an MCA student and software developer who enjoys building practical applicat
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 QuickAI
+<td width="50%" valign="top">
 
-AI-powered content generation platform built with the MERN stack.
+<h3>🤖 QuickAI</h3>
 
-**Features**
+<p>
+An AI-powered content generation platform built using the MERN stack.
+</p>
 
-* AI article & blog generation
-* AI image generation
-* Resume review
-* User authentication
-* Cloud image storage
+<b>Features:</b>
 
-**Tech:** React • Node.js • Express • PostgreSQL • Neon • Clerk • Gemini API • ClipDrop
+<ul>
+<li>AI article and blog generation</li>
+<li>AI image generation</li>
+<li>Resume review</li>
+<li>User authentication</li>
+<li>Cloud image storage</li>
+</ul>
 
-<a href="https://github.com/theashmitsingh">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Project" />
+<b>Tech Stack:</b>
+
+<p>
+React • Node.js • Express • PostgreSQL • Neon • Clerk • Gemini API • ClipDrop
+</p>
+
+<p>
+<a href="https://github.com/theashmitsingh/QuickAI">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="QuickAI" />
 </a>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
+<h3>🚗 Car Rental App</h3>
 
-### 🚗 Car Rental App
+<p>
+A full-stack car rental application built to manage vehicle rental workflows and user interactions.
+</p>
 
-A full-stack car rental application with a focus on clean UI and backend functionality.
+<b>Tech Stack:</b>
 
-**Tech:** MongoDB • Express.js • React • Node.js
+<p>
+MongoDB • Express.js • React • Node.js
+</p>
+
+<br>
+
+<p>
+<a href="https://github.com/theashmitsingh/Car-Rental-App-Full-Stack">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Car Rental App" />
+</a>
+</p>
 
 </td>
 
-<td width="50%">
+</tr>
 
-### 🧠 DSA Practice
+<tr>
 
-Currently working through data structures and algorithms to strengthen problem-solving and coding fundamentals.
+<td width="50%" valign="top">
 
-**Focus:** Arrays • Strings • Linked Lists • Trees • Algorithms
+<h3>🎓 EduQuizAI</h3>
+
+<p>
+An educational quiz application developed as an AI-focused project.
+</p>
+
+<b>Tech Stack:</b>
+
+<p>
+JavaScript • React • Node.js
+</p>
+
+<p>
+<a href="https://github.com/theashmitsingh/Final-EduQuizAI">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="EduQuizAI" />
+</a>
+</p>
 
 </td>
+
+<td width="50%" valign="top">
+
+<h3>🧠 DSA Practice</h3>
+
+<p>
+Currently strengthening problem-solving skills through regular practice of data structures and algorithms.
+</p>
+
+<b>Focus:</b>
+
+<p>
+Arrays • Strings • Linked Lists • Trees • Searching • Sorting • Algorithms
+</p>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theashmitsingh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashmitsingh&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
-### 🔥 Contribution Streak
+<a href="https://github.com/theashmitsingh?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-22-181717?style=for-the-badge&logo=github" alt="Repositories" />
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=theashmitsingh&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+<a href="https://github.com/theashmitsingh?tab=stars">
+<img src="https://img.shields.io/github/stars/theashmitsingh?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+</a>
 
-### 📈 Contribution Activity
+<a href="https://github.com/theashmitsingh?tab=followers">
+<img src="https://img.shields.io/github/followers/theashmitsingh?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theashmitsingh&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 📌 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theashmitsingh&theme=default" alt="Contribution Profile" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theashmitsingh&theme=default" alt="Repositories per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theashmitsingh&theme=default" alt="Most Commit Language" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/theashmitsingh">
-    <img src="https://github-profile-trophy.vercel.app/?username=theashmitsingh&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <a href="https://github.com/theashmitsingh?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
   </a>
 </p>
 
 ---
 
-## 💡 What I'm Working On
+## 🏆 Achievements & Certifications
+
+- 🥇 **Gold Medal Winner** – National Technology Day 2025
+- 🏆 **Best Final Year Project – 2025**
+- 📊 **Google Data Analytics Professional Certificate**
+- 💻 **Top 5% – HackerRank SQL Challenge**
+- ☕ **Java OOPs Certificate – Striver / TUF+**
+- 🐍 **Python Certificate – IIT Bombay Spoken Tutorial**
+- ☕ **Java Certificate – IIT Bombay Spoken Tutorial**
+- 💻 **C & C++ Certificates – IIT Bombay Spoken Tutorial**
+- 🎓 **IEEE Student Mentor**
+
+---
+
+## 💡 Currently Learning
 
 ```text
-DSA                    █████████████░░░  Learning
+DSA                  ███████████████░░░  Active
+ASP.NET Core MVC     █████████████░░░░░  Active
+Backend Development ████████████░░░░░░  Improving
 Full-Stack Development ██████████████░░  Building
-ASP.NET Core           ███████████░░░░░  Learning
-Backend Development    ████████████░░░░  Improving
-AI Integration         ██████████░░░░░░  Exploring
-```
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/theashmitsingh">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/theashmitsingh">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle" />
-  </a>
-  <a href="https://www.codechef.com/users/theashmitsingh">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40" height="40" alt="CodeChef" />
-  </a>
-  <a href="https://www.hackerrank.com/theashmitsingh11">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/theashmitsingh">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode" />
-  </a>
-  <a href="https://stackoverflow.com/users/26130544/ashmit-singh">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40" height="40" alt="Stack Overflow" />
-  </a>
-</p>
-
----
-
-## 📫 Let's Connect
-
-If you're interested in software development, building projects, or discussing technology, feel free to connect with me.
-
-<p align="center">
-  <a href="mailto:theashmitsingh11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-theashmitsingh11%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/theashmitsingh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building. Learning. Improving. One commit at a time.</i> 🚀
-</p>
+AI Integration      ██████████░░░░░░░░  Exploring
